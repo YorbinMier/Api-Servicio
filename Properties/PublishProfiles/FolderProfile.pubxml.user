@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\ejemplo\apiServicio\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>True|2024-01-24T23:16:12.0255770Z;True|2024-01-18T20:00:35.9247747-04:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
